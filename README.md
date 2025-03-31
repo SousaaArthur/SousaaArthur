@@ -4,13 +4,25 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Studying **Technology in Analysis and Systems Development**
-- 💼 Aspiring **Back-End Engineer** | Specialized in **Java, Spring Boot, Angular, and SQL**
-- 📚 Passionate about **Software Architecture, Clean Code, and Scalable Systems**
-- 🎯 Goal: **Become a leading Software Engineer in Brazil**
-- 🎸 Interests: **Rock music, anime, books, and stuides**
+## 👨‍💻 About Me  
+<table>
+  <tr>
+    <td>
+      🎓 Studying <b>Technology in Analysis and Systems Development</b>
+      <br>
+      💼 Aspiring <b>Back-End Engineer** | Specialized in **Java, Spring Boot, AWS, and Microservices</b>  
+      <br>
+      📚 Passionate about <b>Software Architecture, Clean Code, and Scalable Systems</b>
+      <br>
+      🎯 Goal: <b>Become a leading Software Engineer in Brazil</b>
+      <br>
+      🎸 Interests: <b>Rock music, anime, books, and stuides</b>
+    </td>
+    <td>
+      <img src="https://github.com/SousaaArthur.png" width="200px" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
